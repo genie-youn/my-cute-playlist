@@ -19,6 +19,8 @@
 - [Outsider's Dev Story](http://blog.outsider.ne.kr/)
 - [huns.me](https://huns.me/)
 - [sculove](http://sculove.github.io/blog/)
+- [기억보단 기록을](https://jojoldu.tistory.com/)
+- [Evan Moon](https://evan-moon.github.io/)
 - [캡틴 판교](https://joshua1988.github.io/tech/)
 - [DailyEngineering](https://hyunseob.github.io/)
 - [감성 프로그래밍](https://programmingsummaries.tistory.com/)
