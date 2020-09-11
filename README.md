@@ -47,6 +47,7 @@
 
 ### 개인(영어)
 - [DWB - David Walsh Blog](https://davidwalsh.name/)
+- [overreacted - Dan Abramov Blog](https://overreacted.io/)
 
 ### 기업/단체(영어)
 - [스프링 공식 블로그](https://spring.io/blog)
