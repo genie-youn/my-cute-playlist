@@ -18,7 +18,7 @@
 ### 개인(한글)
 - [Outsider's Dev Story](http://blog.outsider.ne.kr/)
 - [huns.me](https://huns.me/)
-- [sculove](http://sculove.github.io/blog/)
+- [sculove](https://blog.naver.com/crazymonlong)
 - [기억보단 기록을](https://jojoldu.tistory.com/)
 - [Evan Moon](https://evan-moon.github.io/)
 - [캡틴 판교](https://joshua1988.github.io/tech/)
