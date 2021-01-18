@@ -12,6 +12,11 @@
 - [Webtools weekly](https://webtoolsweekly.com/)
 - [mozilla](https://developer.mozilla.org/ko/)
 - [FrontEnd front](https://frontendfront.com/)
+- [dev.to](https://dev.to/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Codrops](https://tympanus.net/codrops/)
+
+
 
 ## 기술 블로그
 
@@ -48,6 +53,8 @@
 ### 개인(영어)
 - [DWB - David Walsh Blog](https://davidwalsh.name/)
 - [overreacted - Dan Abramov Blog](https://overreacted.io/)
+- [Kent C. Dodds Blog](https://kentcdodds.com/blog/)
+
 
 ### 기업/단체(영어)
 - [스프링 공식 블로그](https://spring.io/blog)
@@ -60,3 +67,5 @@
 - [Google 기술 블로그](https://medium.com/google-developers)
 - [Facebook 기술블로그 - web](https://engineering.fb.com/category/web/)
 - [Amazon 기술 블로그](https://developer.amazon.com/blogs)
+- [Alligator.io](https://alligator.io/)
+- [Echo.js](https://echojs.com/)
