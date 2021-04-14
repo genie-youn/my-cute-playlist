@@ -29,6 +29,9 @@
 - [캡틴 판교](https://joshua1988.github.io/tech/)
 - [DailyEngineering](https://hyunseob.github.io/)
 - [감성 프로그래밍](https://programmingsummaries.tistory.com/)
+- [daybrush](https://medium.com/@daybrush)
+- [아빠는 개발자](https://bluewings.github.io/)
+
 
 
 ### 기업/단체(한글)
@@ -48,6 +51,9 @@
 - [리디북스 기술 블로그](https://www.ridicorp.com/blog/)
 - [티몬 기술 블로그](https://blog.naver.com/tmondev)
 - [이상한 모임](http://blog.weirdx.io/)
+- [NAVER FE Platform](https://medium.com/naver-fe-platform)
+- [네이버 플레이스](https://medium.com/naver-place-dev)
+- [깃허브 블로그](https://github.blog/)
 
 
 ### 개인(영어)
