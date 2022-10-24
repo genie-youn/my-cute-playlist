@@ -21,6 +21,7 @@
 ## 기술 블로그
 
 ### 개인(한글)
+- [jbee.io](https://jbee.io/)
 - [Outsider's Dev Story](http://blog.outsider.ne.kr/)
 - [huns.me](https://huns.me/)
 - [sculove](https://blog.naver.com/crazymonlong)
@@ -35,6 +36,7 @@
 
 
 ### 기업/단체(한글)
+- [토스 테크](https://toss.tech/)
 - [네이버 기술 블로그](https://d2.naver.com/home)
 - [라인 기술 블로그](https://engineering.linecorp.com/ko/blog/)
 - [카카오 기술 블로그](http://tech.kakao.com/blog)
