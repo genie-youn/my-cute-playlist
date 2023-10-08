@@ -21,6 +21,7 @@
 ## 기술 블로그
 
 ### 개인(한글)
+- [Toby's Epril](https://toby.epril.com/)
 - [jbee.io](https://jbee.io/)
 - [Outsider's Dev Story](http://blog.outsider.ne.kr/)
 - [huns.me](https://huns.me/)
