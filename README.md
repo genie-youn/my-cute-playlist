@@ -15,7 +15,8 @@
 - [dev.to](https://dev.to/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Codrops](https://tympanus.net/codrops/)
-
+- [this week in react](https://thisweekinreact.com/)
+- [TLDR](https://tldr.tech/)
 
 
 ## 기술 블로그
